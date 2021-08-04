@@ -3,7 +3,7 @@ Codificação de uma imagem por Huffman
 
 # GraphQL query
 
-`query{
+`query{`
     appointmentQuestionsHistory(deepth: 1){
         date
         daily{
@@ -15,4 +15,4 @@ Codificação de uma imagem por Huffman
         }                                                                                                                  
     }
 }
-´
+
